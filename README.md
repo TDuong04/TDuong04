@@ -25,4 +25,4 @@ I'm Thai Duong, i'm a Software Engineer, I make software ( with technologies lis
 - <p><a href="https://github.com/TDuong04" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="15px" /></a> [GitHub](https://github.com/TDuong04)</p>
 - Email: Facebookduongtalon@gmail.com
 
-Feel free to reach out to connect, collaborate, or discuss anything related to software engineering, technology, or anything else!
+Feel free to reach out to connect and colaborate! i'm also open for work or internship! unpaid is also acceptable (for now)
