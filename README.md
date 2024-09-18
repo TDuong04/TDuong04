@@ -2,7 +2,7 @@
 
 ## About Me ℹ️
 
-I'm Thai Duong, i'm a Software Engineer, I make software, some of them embedded :) ( with technologies listed below)
+I'm Thai Duong, i'm a Software Engineer, I make software, some of them embedded :) but i can do web too! (kind of  :) )( with technologies listed below)
 
 
 ## Education 📚
