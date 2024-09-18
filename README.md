@@ -19,7 +19,7 @@ Embedded Systems:
 - _Protocols: UART_
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,arduino,vscode,git,linux,rust,raspberrypi" /> </a> </p>
 
-Software Development
+Software Development:
 <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,java,javascript,typescript,react,nodejs,expressjs,nextjs,mysql,mongodb,postgresql,html,css,firebase,aws,supabase" /> </a> </p>
 
 ## Connect with Me 📫
