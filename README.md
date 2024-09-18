@@ -2,7 +2,7 @@
 
 ## About Me ℹ️
 
-I'm Thai Duong, i'm a Software Engineer, I make software ( with technologies listed below)
+I'm Thai Duong, i'm a Software Engineer, I make software, some of them embedded :) ( with technologies listed below)
 
 
 ## Education 📚
@@ -12,6 +12,11 @@ I'm Thai Duong, i'm a Software Engineer, I make software ( with technologies lis
   - _Expected Graduation: September, 2026_
   
 ## Skills 💻
+Embedded Systems:
+Microcontrollers: ATmega328
+Platforms: Arduino, Raspberry Pi
+Embedded Programming Languages: C, C++, Rust
+Protocols: UART
 
 <p align="center">
   <a href="https://skillicons.dev">
