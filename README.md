@@ -13,10 +13,10 @@ I'm Thai Duong, i'm a Software Engineer, I make software, some of them embedded 
   
 ## Skills 💻
 Embedded Systems:
-Microcontrollers: ATmega328
-Platforms: Arduino, Raspberry Pi
-Embedded Programming Languages: C, C++, Rust
-Protocols: UART
+- _Microcontrollers: ATmega328_
+- _Platforms: Arduino, Raspberry Pi_
+- _Embedded Programming Languages: C, C++, Rust_
+- _Protocols: UART_
 
 <p align="center">
   <a href="https://skillicons.dev">
