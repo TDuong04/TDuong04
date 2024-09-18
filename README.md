@@ -17,6 +17,7 @@ Embedded Systems:
 - _Platforms: Arduino, Raspberry Pi_
 - _Embedded Programming Languages: C, C++, Rust_
 - _Protocols: UART_
+- <p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,arduino,vscode,git,linux" /> </a> </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
