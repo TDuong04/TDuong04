@@ -28,4 +28,4 @@ Software Development:
 - <p><a href="https://github.com/TDuong04" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="15px" /></a> [GitHub](https://github.com/TDuong04)</p>
 - Email: Facebookduongtalon@gmail.com
 
-Feel free to reach out to connect and colaborate! i'm also open for work or internship! unpaid is also acceptable (for now)
+Feel free to reach out to connect and colaborate! i'm also open for work or internship! 
