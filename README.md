@@ -9,7 +9,7 @@ I'm Thai Duong, i'm a Software Engineer, I make software, some of them embedded 
 
 - **Bachelor of Software Engineering (Honours degree)**
   - _Royal Melbourne Institute of Technology (RMIT University)_
-  - _Expected Graduation: September, 2026_
+  - _Expected Graduation: November, 2026_
   
 ## Skills 💻
 Embedded Systems:
