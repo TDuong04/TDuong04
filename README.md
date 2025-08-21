@@ -1,71 +1,13 @@
-# Hi, I'm Thai Duong ("spell Tai Young") 👋
+<h1 align="center"> I'm Thai Duong</h1>
+<h3 align="center">I'm a passionate Software Engineering Student with a particular interest in Embedded System and IoT projects</h3>
 
-## About Me ℹ️
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/hu%e1%bb%b3nh-th%c3%a1i-d%c6%b0%c6%a1ng-4aa58824a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/hu%e1%bb%b3nh-th%c3%a1i-d%c6%b0%c6%a1ng-4aa58824a/" height="30" width="40" /></a>
+<a href="https://fb.com/https://www.facebook.com/ht.kurt.12/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ht.kurt.12/" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/https://codeforces.com/profile/codenhuconcac" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/codenhuconcac" height="30" width="40" /></a>
+</p>
 
-I'm Thai Duong, i'm a Software Engineer, I make software, some of them embedded :) but i can do web too! (kind of  :) )( with technologies listed below)
-
-
-## Education 📚
-
-- **Bachelor of Software Engineering (Honours degree)**
-  - _Royal Melbourne Institute of Technology (RMIT University)_
-  - _Expected Graduation: November, 2026_
-  
-## Skills 💻
-Embedded Systems:
-- _Microcontrollers: ATmega328_
-- _Platforms: Arduino, Raspberry Pi_, ESP32_IDF
-- _Embedded Programming Languages: C, C++, Rust_
-- _Protocols: UART_
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=c,cpp,arduino,vscode,git,linux,rust,raspberrypi" /> </a> </p>
-
-Software Development:
-<p align="center"> <a href="https://skillicons.dev"> <img src="https://skillicons.dev/icons?i=docker,java,javascript,typescript,react,nodejs,expressjs,nextjs,mysql,mongodb,postgresql,html,css,firebase,aws,supabase" /> </a> </p>
-
-## 🎯 Projects
-
-- **[PlantOS + The Garden Wars – Bare-Metal Game System](https://github.com/TaiVanNgo/plantos-the-garden-wars)**
-  - **Duration**: April - May 2025
-  - **Tech**: C (bare-metal), Raspberry Pi, QEMU, UART
-  - **Description**: We built a custom operating system named **PlantOS** from scratch, running on Raspberry Pi with no external OS dependencies. On top of this OS, we developed **The Garden Wars**, a real-time arcade-style tower defense game inspired by *Plants vs. Zombies*. Key features include:
-    - A custom command-line interface with command history, auto-completion, and hardware control (`baudrate`, `handshake`, etc.)
-    - Multimedia capabilities: image rendering, custom fonts, and video playback using RGB frame extraction
-    - Full CLI–GUI integration with UART ACK/NAK communication
-    - A fixed-grid game engine handling waves of zombies, plant mechanics, and real-time keyboard inputs
-  - 🎥 Demo Video: [YouTube – Watch Now](https://youtu.be/r9GJwLXUIRY)
-
-- **[Guess Your Paddy: Intelligent Paddy Plant Diagnosis System](https://github.com/TaiVanNgo/COSC2753-machine-learning-assignment-2)**
-  - **Duration**: April - May 2025
-  - **Tech**: Python, TensorFlow, Sklearn, Jupyter Notebook
-  - **Description**: A machine learning-powered solution that classifies rice plant diseases, identifies paddy varieties, and predicts crop age from image data. Trained using 10,000+ annotated images with deep CNN models (Custom Mini-VGG16, EfficientNetB0, ResNet50V2). Integrated into a user-friendly web application to help farmers in real-time diagnostics. The project was developed as part of a group for RMIT’s Machine Learning Assignment and includes EDA, model evaluation, and deployment.
-  - Live Demo: [guessyourpaddy.site](http://guessyourpaddy.site/)
-
-- **[NOVA – Prompt Engineering Platform](https://github.com/tutur3u/platform)**
-  - **Duration**: Feb – June 2025
-  - **Tech**: NextJs, TypeScript, Supabase
-  - **Description**: Contributed as a Full-Stack Developer to the **NOVA** application within the Tuturuuu monorepo — a prompt engineering competition platform. My contribution includes:
-    - Developing scalable frontend pages using Next.js and ShadCNUI
-    - Implementing RESTful APIs and optimizing backend logic for performance
-    - Including translation for EN-VI access
-    - Improving the UI using Reactjs
-    - added rules for Nova's Supabase
-- **[NUC140 Clock Watch](https://github.com/TaiVanNgo/Clock-Watch-NUC140)**
-  - **Duration**: Dec 2024
-  - **Tech**: C, NUC140 Microcontroller
-  - **Description**: Built a digital stopwatch system on the NUC140 microcontroller with features like alarm setting, lap time recording, and precise time tracking. The project includes multiple modes (Idle, Alarm Set, Count) and accurate timing using interrupts. 
-
-
-- **[BuZzNet](https://github.com/lluciiiia/COSC2769_Full_Stack_Development_Group_Assignment)**
-
-  - **Duration**: September 2024
-  - **Tech**: MERN Stack (MongoDB, Express, React, Node.js)  
-  - **Description**: This is our group assignment for the course COSC2769 - Full Stack Development. BuZzNet is the social media website application that helps people connect together.
-
-## Connect with Me 📫
-
-- <p><a href="https://www.linkedin.com/in/hu%E1%BB%B3nh-th%C3%A1i-d%C6%B0%C6%A1ng-4aa58824a/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="15px" /></a> [LinkedIn](https://www.linkedin.com/in/hu%E1%BB%B3nh-th%C3%A1i-d%C6%B0%C6%A1ng-4aa58824a/)</p>
-- <p><a href="https://github.com/TDuong04" target="_blank"><img src="https://skillicons.dev/icons?i=github" width="15px" /></a> [GitHub](https://github.com/TDuong04)</p>
-- Email: Facebookduongtalon@gmail.com
-
-Feel free to reach out to connect and colaborate! i'm also open for work or internship!
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
