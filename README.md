@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Huynh%20Thai%20Duong&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%22Thai%20Young%22%20%C2%B7%20Software%20%C2%B7%20Data%20%C2%B7%20AI%20%C2%B7%20Embedded&descAlignY=60&descSize=18" alt="Header" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Huynh%20Thai%20Duong&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%22Thai%20Young%22%20%C2%B7%20Software%20%C2%B7%20AI%20%C2%B7%20Embedded&descAlignY=60&descSize=18" alt="Header" />
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Embedded+Software+Engineer+%40+Bosch+Vietnam;RMIT+Software+Engineering+(Honours)+graduate;Built+Vital+Agent+with+OUCRU+(Oxford);From+bare-metal+C+to+Kafka+microservices" alt="Typing SVG" />
@@ -29,12 +29,12 @@
 
 - 🏢 **Now:** Embedded Software Engineer at **Bosch Vietnam** (C++ MCU base software for automotive front-radar ADAS)
 - 🧬 **Capstone:** [*Vital Agent*](https://github.com/Oucru-Innovations/vital-agent), an ECG/PPG recording-quality platform built with the **Oxford University Clinical Research Unit (OUCRU)** and deployed on their infrastructure
-- 🌱 **Learning:** Apache Airflow, agentic dev workflows
+- 🌱 **Learning:** agentic dev workflows, automotive embedded software
 - 💬 **Coding since grade 12** (C++), now four years in
 - 🇻🇳 Vietnamese (native) · 🇬🇧 English (fluent)
 
 > [!TIP]
-> Always happy to talk embedded, backend, data, or AI. [Email me](mailto:thaiduong.works@gmail.com).
+> Always happy to talk embedded, backend, or AI. [Email me](mailto:thaiduong.works@gmail.com).
 
 ---
 
@@ -44,7 +44,6 @@
 |---|---|
 | 🥉 | **Bosch CodeRace**: 2nd Runner-Up, real-time CAN-bus hill-driving safety system |
 | 🥉 | **NAVER AI Hackathon**: 2nd Runner-Up (top 10% of projects), *Travista* |
-| 🏅 | **Dataflow 2026** (HAMIC–HUS): Top 10, Spark/Iceberg lakehouse |
 | 🏁 | **Vin Hackathon 2026**: Finalist, "Green Application" backend |
 | 🧪 | **Katalon Testathon**: Top 5, found 40/40 defects, automated 26 test cases |
 
@@ -85,7 +84,7 @@ Led a 40-member tech department across 9 concurrent projects.
 <td><b>Jan – May 2025</b></td>
 <td>
 <b>Fullstack Developer</b>, <a href="https://github.com/tutur3u/platform">Tuturuuu</a><br/>
-Backend APIs and data processing for the <i>Nova</i> AI prompt-engineering platform (Next.js, Supabase).
+Backend APIs and business logic for the <i>Nova</i> AI prompt-engineering platform (Next.js, Supabase).
 </td>
 </tr>
 </table>
@@ -104,12 +103,12 @@ Backend APIs and data processing for the <i>Nova</i> AI prompt-engineering platf
 </details>
 
 <details open>
-<summary><b>Data & AI</b></summary>
+<summary><b>AI & machine learning</b></summary>
 <br/>
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,postgres,mongodb,redis,mysql&perline=10" alt="Data" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,py&perline=10" alt="AI" />
 
-`Qwen LLM assistants` · `guarded agent actions` · `LLM safety evaluation` · `Apache Spark` · `Apache Iceberg` · `ClickHouse` · `Apache Superset` · `YOLOv8` · `TensorRT/CUDA` · `HyperCLOVA X` · `LLM orchestration` · `Signal processing / HRV`
+`Qwen LLM assistants` · `guarded agent actions` · `LLM safety evaluation` · `YOLOv8` · `TensorRT/CUDA` · `HyperCLOVA X` · `LLM orchestration` · `Signal processing / HRV`
 </details>
 
 <details open>
@@ -134,7 +133,7 @@ Backend APIs and data processing for the <i>Nova</i> AI prompt-engineering platf
 
 ## 🚀 Featured projects
 
-### Software & data
+### Software & AI
 
 <table>
 <tr>
@@ -184,18 +183,6 @@ AI travel planner for South Korea built on **NAVER HyperCLOVA X** prompt orchest
 </td>
 <td width="50%" valign="top">
 
-#### 🧊 Open-Source Lakehouse Platform
-*Dataflow 2026 · Top 10*
-
-Wrote the **Spark** ingestion pipeline that cleaned and transformed **590K+ records** in a Docker-based lakehouse; validated table history with **Iceberg time-travel** queries.
-
-`Spark` `Iceberg` `ClickHouse` `Superset` `Docker`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
 #### 🌾 [Guess Your Paddy](https://github.com/TDuong04/COSC2753-machine-learning-assignment-2)
 *COSC2753 · ML*
 
@@ -204,14 +191,16 @@ CNN pipeline for rice disease classification, variety identification and crop-ag
 `Python` `TensorFlow` `scikit-learn`
 
 </td>
-<td width="50%" valign="top">
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-#### 🐟 IoT for Environmental Aquaculture
+#### 🐟 [Fish Detection on Jetson Nano](https://github.com/TDuong04/image-fish-AI) · IoT for Environmental Aquaculture
 *Computer vision research · ongoing*
 
-Fine-tuned **YOLOv8** on DeepFish for underwater fish detection and counting, deployed on **Jetson Nano** with **TensorRT** at **10 FPS**. Designed the end-to-end system architecture.
+Fine-tuned **YOLOv8** on DeepFish for real-time underwater fish detection, counting and size estimation in low-visibility conditions. Optimised with **TensorRT** on an **NVIDIA Jetson Nano** to reach **10 FPS**; benchmarked optical and sonar datasets (DeepFish, OzFish, Caltech Fish Counting) and designed the end-to-end system architecture.
 
-`YOLOv8` `TensorRT` `Jetson Nano`
+`YOLOv8` `TensorRT` `Jetson Nano` `Computer vision`
 
 </td>
 </tr>
@@ -273,8 +262,7 @@ A bare-metal stopwatch / alarm FSM on the NUC140 (GPIO, interrupts, Timer0, 7-se
 ```mermaid
 flowchart LR
     A[🔌 Embedded<br/>C/C++ · ASM · CAN · ADAS] --> B[⚙️ Backend<br/>Spring Boot · Kafka · FastAPI]
-    B --> C[📊 Data<br/>Spark · Iceberg · PostgreSQL]
-    C --> D[🤖 AI<br/>PyTorch · YOLOv8 · LLM agents · safety evals]
+    B --> D[🤖 AI<br/>PyTorch · YOLOv8 · LLM agents · safety evals]
     D --> E[🌐 Product<br/>Next.js · Docker · AWS]
 ```
 
@@ -315,7 +303,7 @@ flowchart LR
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hu%E1%BB%B3nh-th%C3%A1i-d%C6%B0%C6%A1ng-4aa58824a/)
 [![Email](https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaiduong.works@gmail.com)
 
-*Always up for collaborating, whether it's embedded, backend, data, or AI.*
+*Always up for collaborating, whether it's embedded, backend, or AI.*
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Footer" />
 
