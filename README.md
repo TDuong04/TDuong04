@@ -80,13 +80,6 @@ Built the Java/Spring Boot backend for the internal <i>Interview Pool</i> recrui
 Led a 40-member tech department across 9 concurrent projects.
 </td>
 </tr>
-<tr>
-<td><b>Jan – May 2025</b></td>
-<td>
-<b>Fullstack Developer</b>, <a href="https://github.com/tutur3u/platform">Tuturuuu</a><br/>
-Backend APIs and business logic for the <i>Nova</i> AI prompt-engineering platform (Next.js, Supabase).
-</td>
-</tr>
 </table>
 
 ---
