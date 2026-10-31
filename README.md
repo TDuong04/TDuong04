@@ -1,30 +1,30 @@
 <!-- markdownlint-disable MD033 MD041 -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Huynh%20Thai%20Duong&fontSize=52&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%22Thai%20Young%22%20%C2%B7%20Software%20%C2%B7%20AI%20%C2%B7%20Embedded&descAlignY=60&descSize=18" alt="Header" />
+<a href="https://tduong04.github.io">
+  <img width="100%" src="assets/banner.svg" alt="Huynh Thai Duong: Software, AI, Embedded. A Windows 95 style desktop. Click to open the interactive portfolio." />
+</a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=36BCF7&center=true&vCenter=true&width=640&lines=Embedded+Software+Engineer+%40+Bosch+Vietnam;RMIT+Software+Engineering+(Honours)+graduate;Built+Vital+Agent+with+OUCRU+(Oxford);From+bare-metal+C+to+Kafka+microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1200&color=008080&center=true&vCenter=true&width=700&lines=C%3A%5C%3E+Embedded+Software+Engineer+%40+Bosch+Vietnam;C%3A%5C%3E+RMIT+Software+Engineering+(Honours)+graduate;C%3A%5C%3E+Built+Vital+Agent+with+OUCRU+(Oxford);C%3A%5C%3E+bare-metal+C+to+Kafka+microservices" alt="Typing animation" />
 </a>
 
 <br/>
 
-![Location](https://img.shields.io/badge/Ho_Chi_Minh_City-Viet_Nam-0f2027?style=for-the-badge&logo=googlemaps&logoColor=white)
-![RMIT](https://img.shields.io/badge/RMIT-Honours_·_GPA_3.64-E60028?style=for-the-badge)
-![Graduated](https://img.shields.io/badge/Graduated-Sep_2026-2ea44f?style=for-the-badge)
-![Bosch](https://img.shields.io/badge/Bosch_Vietnam-Embedded_SWE-E20015?style=for-the-badge)
+![Location](https://img.shields.io/badge/Ho_Chi_Minh_City-Viet_Nam-000080?style=flat-square&labelColor=000080&color=000080)
+![RMIT](https://img.shields.io/badge/RMIT-Honours_·_GPA_3.64-000080?style=flat-square&labelColor=000080&color=008080)
+![Graduated](https://img.shields.io/badge/Graduated-Sep_2026-000080?style=flat-square&labelColor=000080&color=008080)
+![Bosch](https://img.shields.io/badge/Bosch_Vietnam-Embedded_SWE-000080?style=flat-square&labelColor=000080&color=008080)
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Win95_Desktop-008080?style=flat-square&logo=windows95&logoColor=white)](https://tduong04.github.io)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hu%E1%BB%B3nh-th%C3%A1i-d%C6%B0%C6%A1ng-4aa58824a/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thaiduong.works@gmail.com)
-[![GitHub followers](https://img.shields.io/github/followers/TDuong04?style=flat-square&logo=github&label=Follow)](https://github.com/TDuong04)
-![Profile views](https://komarev.com/ghpvc/?username=TDuong04&style=flat-square&color=36BCF7&label=Profile+views)
+[![Portfolio](https://img.shields.io/badge/Portfolio-tduong04.github.io-000080?style=flat-square&labelColor=000080&color=008080)](https://tduong04.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000080?style=flat-square&labelColor=000080&color=008080)](https://www.linkedin.com/in/hu%E1%BB%B3nh-th%C3%A1i-d%C6%B0%C6%A1ng-4aa58824a/)
+[![Email](https://img.shields.io/badge/Email-Say_hi-000080?style=flat-square&labelColor=000080&color=008080)](mailto:thaiduong.works@gmail.com)
+[![GitHub followers](https://img.shields.io/github/followers/TDuong04?style=flat-square&label=Follow&labelColor=000080&color=008080)](https://github.com/TDuong04)
+![Profile views](https://komarev.com/ghpvc/?username=TDuong04&style=flat-square&color=008080&label=Visitors)
 
 </div>
 
----
-
-## 👋 About me
+<h2><img width="100%" src="assets/title-about.svg" alt="About me" /></h2>
 
 **Software Engineering (Honours)** graduate from **RMIT University** who likes working across the whole stack, from boot code on a Raspberry Pi to event-driven microservices and clinical AI platforms.
 
@@ -34,12 +34,9 @@
 - 💬 **Coding since grade 12** (C++), now four years in
 - 🇻🇳 Vietnamese (native) · 🇬🇧 English (fluent)
 
-> [!TIP]
-> Always happy to talk embedded, backend, or AI. [Email me](mailto:thaiduong.works@gmail.com).
+> **⚠ Message from Duong:** Always happy to talk embedded, backend, or AI. [Email me](mailto:thaiduong.works@gmail.com) &nbsp; `[ OK ]`
 
----
-
-## 🏆 Highlights
+<h2><img width="100%" src="assets/title-highlights.svg" alt="Highlights" /></h2>
 
 | | Achievement |
 |---|---|
@@ -48,9 +45,7 @@
 | 🏁 | **Vin Hackathon 2026**: Finalist, "Green Application" backend |
 | 🧪 | **Katalon Testathon**: Top 5, found 40/40 defects, automated 26 test cases |
 
----
-
-## 💼 Experience
+<h2><img width="100%" src="assets/title-experience.svg" alt="Experience" /></h2>
 
 <table>
 <tr>
@@ -83,9 +78,7 @@ Led a 40-member tech department across 9 concurrent projects.
 </tr>
 </table>
 
----
-
-## 🛠️ Tech stack
+<h2><img width="100%" src="assets/title-stack.svg" alt="Tech stack" /></h2>
 
 <details open>
 <summary><b>Languages & backend</b></summary>
@@ -123,11 +116,9 @@ Led a 40-member tech department across 9 concurrent projects.
 `Docker` · `AWS (EC2, S3)` · `GCP` · `GitHub Actions CI/CD` · `Katalon` · `HIL testing` · `Jira / Agile`
 </details>
 
----
+<h2><img width="100%" src="assets/title-projects.svg" alt="Featured projects" /></h2>
 
-## 🚀 Featured projects
-
-### Software & AI
+### 📁 C:\Projects\Software_and_AI
 
 <table>
 <tr>
@@ -200,7 +191,7 @@ Fine-tuned **YOLOv8** on DeepFish for real-time underwater fish detection, count
 </tr>
 </table>
 
-### Embedded & systems
+### 📁 C:\Projects\Embedded_and_Systems
 
 <table>
 <tr>
@@ -249,57 +240,47 @@ A bare-metal stopwatch / alarm FSM on the NUC140 (GPIO, interrupts, Timer0, 7-se
 </tr>
 </table>
 
----
+<h2><img width="100%" src="assets/title-map.svg" alt="What I work on" /></h2>
 
-## 🧭 What I work on
+```text
+C:\PORTFOLIO> tree /f
 
-```mermaid
-flowchart LR
-    A[🔌 Embedded<br/>C/C++ · ASM · CAN · ADAS] --> B[⚙️ Backend<br/>Spring Boot · Kafka · FastAPI]
-    B --> D[🤖 AI<br/>PyTorch · YOLOv8 · LLM agents · safety evals]
-    D --> E[🌐 Product<br/>Next.js · Docker · AWS]
+Embedded ........ C / C++ / ASM, CAN, UART, ADAS front-radar MCU software
+  |
+Backend ......... Spring Boot, Kafka, FastAPI, RBAC and audit design
+  |
+AI .............. PyTorch, YOLOv8, LLM agents, safety evaluation
+  |
+Product ......... Next.js, Docker, AWS
+
+C:\PORTFOLIO> _
 ```
 
----
-
-## 📈 GitHub stats
+<h2><img width="100%" src="assets/title-stats.svg" alt="GitHub stats" /></h2>
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=TDuong04&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TDuong04&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=TDuong04&layout=compact&theme=tokyonight&hide_border=true" />
-  <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDuong04&layout=compact&theme=default&hide_border=true" />
-</picture>
+<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TDuong04&show_icons=true&include_all_commits=true&count_private=true&bg_color=c0c0c0&title_color=000080&text_color=000000&icon_color=000080&border_color=000000" />
+<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDuong04&layout=compact&bg_color=c0c0c0&title_color=000080&text_color=000000&border_color=000000" />
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=TDuong04&theme=tokyonight&hide_border=true" />
-  <img alt="Streak" src="https://streak-stats.demolab.com?user=TDuong04&theme=default&hide_border=true" />
-</picture>
+<img alt="Contribution streak" src="https://streak-stats.demolab.com?user=TDuong04&background=C0C0C0&border=000000&ring=000080&fire=000080&currStreakNum=000000&currStreakLabel=000080&sideNums=000000&sideLabels=000080&dates=404040" />
 
 </div>
 
----
-
-## 🎓 Education
+<h2><img width="100%" src="assets/title-education.svg" alt="Education" /></h2>
 
 **RMIT University**: Bachelor of Software Engineering (Honours) · Oct 2022 – Sep 2026 (graduated) · GPA 3.64 / 4.0
 
----
-
-## 📫 Let's connect
+<h2><img width="100%" src="assets/title-connect.svg" alt="Let's connect" /></h2>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hu%E1%BB%B3nh-th%C3%A1i-d%C6%B0%C6%A1ng-4aa58824a/)
-[![Email](https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaiduong.works@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Open_my_desktop-008080?style=for-the-badge&logo=windows95&logoColor=white)](https://tduong04.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000080?style=flat-square&labelColor=000080&color=008080)](https://www.linkedin.com/in/hu%E1%BB%B3nh-th%C3%A1i-d%C6%B0%C6%A1ng-4aa58824a/)
+[![Email](https://img.shields.io/badge/Email-Say_hi-000080?style=flat-square&labelColor=000080&color=008080)](mailto:thaiduong.works@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Open_my_desktop-000080?style=flat-square&labelColor=000080&color=008080)](https://tduong04.github.io)
 
 *Always up for collaborating, whether it's embedded, backend, or AI.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,100:0f2027&height=100&section=footer" alt="Footer" />
+<img width="100%" src="assets/taskbar.svg" alt="Taskbar: thanks for visiting" />
 
 </div>
