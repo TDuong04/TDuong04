@@ -14,6 +14,7 @@
 ![Graduated](https://img.shields.io/badge/Graduated-Sep_2026-2ea44f?style=for-the-badge)
 ![Bosch](https://img.shields.io/badge/Bosch_Vietnam-Embedded_SWE-E20015?style=for-the-badge)
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-Win95_Desktop-008080?style=flat-square&logo=windows95&logoColor=white)](https://tduong04.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hu%E1%BB%B3nh-th%C3%A1i-d%C6%B0%C6%A1ng-4aa58824a/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:thaiduong.works@gmail.com)
 [![GitHub followers](https://img.shields.io/github/followers/TDuong04?style=flat-square&logo=github&label=Follow)](https://github.com/TDuong04)
@@ -295,6 +296,7 @@ flowchart LR
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hu%E1%BB%B3nh-th%C3%A1i-d%C6%B0%C6%A1ng-4aa58824a/)
 [![Email](https://img.shields.io/badge/Email-Say_hi-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaiduong.works@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Open_my_desktop-008080?style=for-the-badge&logo=windows95&logoColor=white)](https://tduong04.github.io)
 
 *Always up for collaborating, whether it's embedded, backend, or AI.*
 
