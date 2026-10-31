@@ -24,7 +24,7 @@
 
 </div>
 
-<h2><img width="100%" src="assets/title-about.svg" alt="About me" /></h2>
+<div><img width="100%" src="assets/title-about.svg" alt="About me" /></div>
 
 **Software Engineering (Honours)** graduate from **RMIT University** who likes working across the whole stack, from boot code on a Raspberry Pi to event-driven microservices and clinical AI platforms.
 
@@ -36,7 +36,7 @@
 
 > **⚠ Message from Duong:** Always happy to talk embedded, backend, or AI. [Email me](mailto:thaiduong.works@gmail.com) &nbsp; `[ OK ]`
 
-<h2><img width="100%" src="assets/title-highlights.svg" alt="Highlights" /></h2>
+<div><img width="100%" src="assets/title-highlights.svg" alt="Highlights" /></div>
 
 | | Achievement |
 |---|---|
@@ -45,7 +45,7 @@
 | 🏁 | **Vin Hackathon 2026**: Finalist, "Green Application" backend |
 | 🧪 | **Katalon Testathon**: Top 5, found 40/40 defects, automated 26 test cases |
 
-<h2><img width="100%" src="assets/title-experience.svg" alt="Experience" /></h2>
+<div><img width="100%" src="assets/title-experience.svg" alt="Experience" /></div>
 
 <table>
 <tr>
@@ -78,7 +78,7 @@ Led a 40-member tech department across 9 concurrent projects.
 </tr>
 </table>
 
-<h2><img width="100%" src="assets/title-stack.svg" alt="Tech stack" /></h2>
+<div><img width="100%" src="assets/title-stack.svg" alt="Tech stack" /></div>
 
 <details open>
 <summary><b>Languages & backend</b></summary>
@@ -116,7 +116,7 @@ Led a 40-member tech department across 9 concurrent projects.
 `Docker` · `AWS (EC2, S3)` · `GCP` · `GitHub Actions CI/CD` · `Katalon` · `HIL testing` · `Jira / Agile`
 </details>
 
-<h2><img width="100%" src="assets/title-projects.svg" alt="Featured projects" /></h2>
+<div><img width="100%" src="assets/title-projects.svg" alt="Featured projects" /></div>
 
 ### 📁 C:\Projects\Software_and_AI
 
@@ -240,7 +240,7 @@ A bare-metal stopwatch / alarm FSM on the NUC140 (GPIO, interrupts, Timer0, 7-se
 </tr>
 </table>
 
-<h2><img width="100%" src="assets/title-map.svg" alt="What I work on" /></h2>
+<div><img width="100%" src="assets/title-map.svg" alt="What I work on" /></div>
 
 ```text
 C:\PORTFOLIO> tree /f
@@ -256,22 +256,22 @@ Product ......... Next.js, Docker, AWS
 C:\PORTFOLIO> _
 ```
 
-<h2><img width="100%" src="assets/title-stats.svg" alt="GitHub stats" /></h2>
+<div><img width="100%" src="assets/title-stats.svg" alt="GitHub stats" /></div>
 
 <div align="center">
 
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=TDuong04&show_icons=true&include_all_commits=true&count_private=true&bg_color=c0c0c0&title_color=000080&text_color=000000&icon_color=000080&border_color=000000" />
-<img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TDuong04&layout=compact&bg_color=c0c0c0&title_color=000080&text_color=000000&border_color=000000" />
+<img alt="GitHub stats" width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TDuong04&theme=graywhite" />
+<img alt="Top languages by commit" width="340" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=TDuong04&theme=graywhite" />
 
 <img alt="Contribution streak" src="https://streak-stats.demolab.com?user=TDuong04&background=C0C0C0&border=000000&ring=000080&fire=000080&currStreakNum=000000&currStreakLabel=000080&sideNums=000000&sideLabels=000080&dates=404040" />
 
 </div>
 
-<h2><img width="100%" src="assets/title-education.svg" alt="Education" /></h2>
+<div><img width="100%" src="assets/title-education.svg" alt="Education" /></div>
 
 **RMIT University**: Bachelor of Software Engineering (Honours) · Oct 2022 – Sep 2026 (graduated) · GPA 3.64 / 4.0
 
-<h2><img width="100%" src="assets/title-connect.svg" alt="Let's connect" /></h2>
+<div><img width="100%" src="assets/title-connect.svg" alt="Let's connect" /></div>
 
 <div align="center">
 
