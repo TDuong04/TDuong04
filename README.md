@@ -2,7 +2,7 @@
 <div align="center">
 
 <a href="https://tduong04.github.io">
-  <img width="100%" src="assets/banner.svg" alt="Huynh Thai Duong: Software, AI, Embedded. A Windows 95 style desktop. Click to open the interactive portfolio." />
+  <img width="100%" src="assets/banner-software-engineer.svg" alt="Huynh Thai Duong: Software Engineer. A Windows 95 style desktop. Click to open the interactive portfolio." />
 </a>
 
 <a href="https://git.io/typing-svg">
