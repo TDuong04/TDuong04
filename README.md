@@ -6,7 +6,7 @@
 </a>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1200&color=008080&center=true&vCenter=true&width=700&lines=C%3A%5C%3E+Embedded+Software+Engineer+%40+Bosch+Vietnam;C%3A%5C%3E+RMIT+Software+Engineering+(Honours)+graduate;C%3A%5C%3E+Built+Vital+Agent+with+OUCRU+(Oxford);C%3A%5C%3E+bare-metal+C+to+Kafka+microservices" alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=VT323&size=26&pause=1200&color=008080&center=true&vCenter=true&width=700&lines=C%3A%5C%3E+Software+Engineer;C%3A%5C%3E+RMIT+Software+Engineering+(Honours)+graduate;C%3A%5C%3E+Built+Vital+Agent+with+OUCRU+(Oxford);C%3A%5C%3E+backend%2C+AI+and+systems+projects" alt="Typing animation" />
 </a>
 
 <br/>
@@ -14,7 +14,6 @@
 ![Location](https://img.shields.io/badge/Ho_Chi_Minh_City-Viet_Nam-000080?style=flat-square&labelColor=000080&color=000080)
 ![RMIT](https://img.shields.io/badge/RMIT-Honours_·_GPA_3.64-000080?style=flat-square&labelColor=000080&color=008080)
 ![Graduated](https://img.shields.io/badge/Graduated-Sep_2026-000080?style=flat-square&labelColor=000080&color=008080)
-![Bosch](https://img.shields.io/badge/Bosch_Vietnam-Embedded_SWE-000080?style=flat-square&labelColor=000080&color=008080)
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-tduong04.github.io-000080?style=flat-square&labelColor=000080&color=008080)](https://tduong04.github.io)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-000080?style=flat-square&labelColor=000080&color=008080)](https://www.linkedin.com/in/hu%E1%BB%B3nh-th%C3%A1i-d%C6%B0%C6%A1ng-4aa58824a/)
@@ -26,11 +25,11 @@
 
 <div><img width="100%" src="assets/title-about.svg" alt="About me" /></div>
 
-**Software Engineering (Honours)** graduate from **RMIT University** who likes working across the whole stack, from boot code on a Raspberry Pi to event-driven microservices and clinical AI platforms.
+**Software Engineer** and **Software Engineering (Honours)** graduate from **RMIT University**, working across backend platforms, AI applications and systems software.
 
-- 🏢 **Now:** Embedded Software Engineer at **Bosch Vietnam** (C++ MCU base software for automotive front-radar ADAS)
+- 💻 **Focus:** Building software across backend platforms, AI applications and systems
 - 🧬 **Capstone:** [*Vital Agent*](https://github.com/Oucru-Innovations/vital-agent), an ECG/PPG recording-quality platform built with the **Oxford University Clinical Research Unit (OUCRU)** and deployed on their infrastructure
-- 🌱 **Learning:** agentic dev workflows, automotive embedded software
+- 🌱 **Learning:** agentic development workflows and applied AI
 - 💬 **Coding since grade 12** (C++), now four years in
 - 🇻🇳 Vietnamese (native) · 🇬🇧 English (fluent)
 
@@ -48,13 +47,6 @@
 <div><img width="100%" src="assets/title-experience.svg" alt="Experience" /></div>
 
 <table>
-<tr>
-<td width="170"><b>Oct 2026 – now</b></td>
-<td>
-<b>Embedded Software Engineer</b>, Bosch Vietnam<br/>
-Develop C++ MCU base-software components supporting front-radar sensing for automotive ADAS. Work at the embedded hardware–software boundary, building on CAN, microcontroller and hardware-in-the-loop experience.
-</td>
-</tr>
 <tr>
 <td width="170"><b>Apr – Sep 2026</b></td>
 <td>
@@ -245,7 +237,7 @@ A bare-metal stopwatch / alarm FSM on the NUC140 (GPIO, interrupts, Timer0, 7-se
 ```text
 C:\PORTFOLIO> tree /f
 
-Embedded ........ C / C++ / ASM, CAN, UART, ADAS front-radar MCU software
+Systems .......... C / C++ / ASM, CAN, UART, bare-metal drivers and MCU projects
   |
 Backend ......... Spring Boot, Kafka, FastAPI, RBAC and audit design
   |
